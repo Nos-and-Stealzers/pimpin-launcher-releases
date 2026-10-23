@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "notices": [
+    {
+      "id": "v0127-water-and-notices",
+      "title": "Water, AA and a notice centre (0.1.27)",
+      "body": "New water surface + anti-aliasing in Ultra, notification bell with in-game HUD. Press R to reload shaders.",
+      "severity": "info",
+      "link": "https://github.com/Nos-and-Stealzers/pimpin-launcher-releases/releases",
+      "linkLabel": "View releases",
+      "from": "0.1.27",
+      "to": "",
+      "expires": "2026-12-05",
+      "inGame": true
+    }
+  ]
+}
